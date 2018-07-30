@@ -1,0 +1,63 @@
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	TEXT-ALIGN: left
+}
+TABLE TD {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体, 新细明体, Verdana, Arial, sans-serif
+}
+TABLE.fix {
+	TABLE-LAYOUT: fixed
+}
+TABLE.fix TD {
+	OVERFLOW: hidden; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis; o-text-overflow: ellipsis
+}
+A {
+	COLOR: #333333; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0000ff
+}
+INPUT {
+	FONT-SIZE: 12px
+}
+.text {
+	BORDER-RIGHT: #89d4f8 1px solid; BORDER-TOP: #89d4f8 1px solid; BORDER-LEFT: #89d4f8 1px solid; COLOR: #054e86; BORDER-BOTTOM: #89d4f8 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #ffffff
+}
+.button {
+	BORDER-RIGHT: 0pt; PADDING-RIGHT: 0pt; BORDER-TOP: 0pt; PADDING-LEFT: 0pt; FONT-SIZE: 12px; BACKGROUND: url(bg_button.gif) 0% 50%; PADDING-BOTTOM: 0pt; BORDER-LEFT: 0pt; WIDTH: 48px; CURSOR: pointer; PADDING-TOP: 1px; BORDER-BOTTOM: 0pt; HEIGHT: 19px; TEXT-ALIGN: center
+}
+.buttonlog {
+	BORDER-RIGHT: 0pt; PADDING-RIGHT: 0pt; BORDER-TOP: 0pt; PADDING-LEFT: 0pt; FONT-SIZE: 12px; BACKGROUND: url(bg_button.gif) 0% 50%; PADDING-BOTTOM: 0pt; BORDER-LEFT: 0pt; WIDTH: 48px; CURSOR: pointer; PADDING-TOP: 1px; BORDER-BOTTOM: 0pt; HEIGHT: 19px; TEXT-ALIGN: center; font-color: #333333
+}
+.checkbox {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.radio {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.hottext {
+	COLOR: #ff0000
+}
+.grid {
+	BACKGROUND-COLOR: #89d4f8
+}
+.font1 {
+	FONT: 12px/150% "宋体"; COLOR: #000000; TEXT-DECORATION: none
+}
+.font2 {
+	FONT: bold 12px/150% "宋体"; COLOR: #cc3300; TEXT-DECORATION: none
+}
+.font3 {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.font4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 23px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #0066cc; FONT-FAMILY: "宋体"
+}
+.font5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #0066cc; FONT-FAMILY: "宋体"
+}
